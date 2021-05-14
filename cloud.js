@@ -91,5 +91,5 @@ Cloud.createAsync = (user, id) => {
     });
   });
 }
-
+var varval = cloud.get(variableName)
 module.exports = Cloud;
